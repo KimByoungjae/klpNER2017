@@ -1,0 +1,1000 @@
+p	DT
+p세기폭스	DT
+AD p세기	DT
+A매치데이	DT
+BC p년	DT
+D-p	DT
+p ~ p년	DT
+p- p년	DT
+p- p월	DT
+p 개월	DT
+p 개월 동안	DT
+p 개월 전	DT
+p 개월 전부터	DT
+p 년 p 개월 전	DT
+p 세기	DT
+p 일동안	DT
+p, p년 전	DT
+p, p년까지	DT
+p, p년대	DT
+p, p세기	DT
+p, p일	DT
+p,p세기	DT
+p,p일	DT
+p.p	DT
+p.p(y)	DT
+p.p.	DT
+p.p.p~p.p.p	DT
+p.p.p일자	DT
+p.p~p	DT
+p.p~p.p	DT
+p.p분기	DT
+p/p	DT
+p/p~p/p	DT
+p/p시즌	DT
+p~p	DT
+p~p년	DT
+p~p년대	DT
+p~p시즌	DT
+p~p월	DT
+p~p일	DT
+p∼p년	DT
+p∼p년 반	DT
+p∼p년까지	DT
+p∼p년대	DT
+p∼p년전	DT
+p∼p월	DT
+p∼p월중	DT
+p·p	DT
+p·p로 환국 후	DT
+p·p분기	DT
+p·p세기	DT
+p·p일	DT
+p·p전쟁 때	DT
+Padua시기의 말	DT
+p-p	DT
+p-p-p	DT
+p-p시즌	DT
+p개월	DT
+p개월간	DT
+p개월이상	DT
+p년	DT
+p년 p개월	DT
+p년 p월	DT
+p년 p월 p일부터 p년 p월 p일까지	DT
+p년 p월 p일부터 p월 p일까지	DT
+p년 p월p일	DT
+p년 p월이후	DT
+p년 간	DT
+p년 동안	DT
+p년 뒤	DT
+p년 만	DT
+p년 반	DT
+p년 서울아시아 경기대회 당시	DT
+p년 이상	DT
+p년 이전	DT
+p년 이후	DT
+p년 전	DT
+p년 전부터	DT
+p년 후	DT
+p년p개월	DT
+p년p분기	DT
+p년p분기이후	DT
+p년p월	DT
+p년p월p일	DT
+p년p월p일(y)	DT
+p년p월p일(y)부터p년p월p일(y)까지	DT
+p년p월p일(월)	DT
+p년p월p일(일)	DT
+p년p월p일y	DT
+p년p월p일부터p월p일까지	DT
+p년p월경부터	DT
+p년p월말	DT
+p년p월부터	DT
+p년p월이후	DT
+p년p월초	DT
+p년간	DT
+p년경	DT
+p년과 p년 사이	DT
+p년까지	DT
+p년대	DT
+p년대 말	DT
+p년대 이후	DT
+p년대 후반	DT
+p년대경	DT
+p년대말	DT
+p년대부터	DT
+p년대초	DT
+p년도	DT
+p년도p월	DT
+p년동안	DT
+p년말	DT
+p년반	DT
+p년부터	DT
+p년부터p년까지	DT
+p년부터올해	DT
+p년에서 p년까지	DT
+p년여	DT
+p년이내	DT
+p년이상	DT
+p년이하	DT
+p년이후	DT
+p년전	DT
+p년전부터	DT
+p년째	DT
+p년쯤 전까지	DT
+p년차	DT
+p년후	DT
+p달후	DT
+p박	DT
+p박 p일	DT
+p박p일	DT
+p박p일간	DT
+p백 p년	DT
+p백 p일간	DT
+p백년	DT
+p백년 동안	DT
+p백여년	DT
+p분기	DT
+p분기부터	DT
+p분기이후	DT
+p세기	DT
+p세기 말	DT
+p세기 이후	DT
+p세기 전반	DT
+p세기 중반	DT
+p세기 중엽	DT
+p세기 초	DT
+p세기 후반	DT
+p세기경	DT
+p세기말	DT
+p시p분	DT
+p시간	DT
+p시간 반 이상	DT
+p시즌	DT
+p억 p천만 년 뒤	DT
+p여 년	DT
+p여 년 동안	DT
+p여 일간	DT
+p여년	DT
+p여년전	DT
+p여년째	DT
+p여일	DT
+p월	DT
+p월 p일	DT
+p월 p일부터	DT
+p월 p일자	DT
+p월 말	DT
+p월p~p일	DT
+p월p-p일	DT
+p월p일	DT
+p월p일 이후	DT
+p월p일(y)	DT
+p월p일(월)	DT
+p월p일~p일	DT
+p월p일u	DT
+p월p일y	DT
+p월p일y요일	DT
+p월p일까지	DT
+p월p일부터	DT
+p월p일부터p월p일까지	DT
+p월까지	DT
+p월말	DT
+p월부터	DT
+p월부터p월까지	DT
+p월셋째주	DT
+p월중	DT
+p월중순	DT
+p월첫째주	DT
+p월초	DT
+p월초까지	DT
+p월초순	DT
+p일	DT
+p일 동안	DT
+p일 오전 p시	DT
+p일(일)	DT
+p일~p일	DT
+p일간	DT
+p일까지	DT
+p일동안	DT
+p일부터	DT
+p일부터 p일까지	DT
+p일부터 내달 p일까지	DT
+p일부터p월p일까지	DT
+p일부터p일까지	DT
+p일부터다음달p일까지	DT
+p일자	DT
+p일째	DT
+p일후	DT
+p주	DT
+p주 간	DT
+p주 동안	DT
+p주기	DT
+p주년	DT
+p주일	DT
+p주일간	DT
+p주일동안	DT
+p주차	DT
+p주후	DT
+p차 대전이 끝난 후	DT
+p차대전 때	DT
+p천	DT
+p천년	DT
+p학기째	DT
+p흘간	DT
+u	DT
+u마다	DT
+y,u	DT
+y,y	DT
+y,일	DT
+y~y	DT
+y요일	DT
+y요일마다	DT
+가을	DT
+가임기간	DT
+간	DT
+갑자일	DT
+甲子日	DT
+같은 해 p월	DT
+같은달p	DT
+같은달p일	DT
+같은해p월	DT
+개월	DT
+개화기	DT
+갱년기	DT
+건국초기	DT
+겨울	DT
+겨울동안	DT
+겨울철	DT
+경술년	DT
+고대	DT
+고대 말에서부터	DT
+고려 인종기 전후(p∼p세기)	DT
+고려 인종때	DT
+고려말	DT
+고려조	DT
+고려초	DT
+공비사건 이후	DT
+공휴 국경일	DT
+공휴일	DT
+과학혁명기	DT
+광복절	DT
+광복절p.p	DT
+구랍 p일	DT
+구석기시대	DT
+구한말	DT
+국군의 날	DT
+국왕 방중 전날	DT
+국왕 방중기간	DT
+국왕시대	DT
+그 해	DT
+그 해 연말	DT
+근대	DT
+근현대	DT
+금년	DT
+금년 봄	DT
+금요일	DT
+금일	DT
+나지불라 정권 시절	DT
+나흘째	DT
+내년	DT
+내년 p월	DT
+내년 상반기	DT
+내년p월	DT
+내년p월까지	DT
+내년p월말	DT
+내년p월초	DT
+내년부터	DT
+내년상반기까지	DT
+내년시즌	DT
+내년시즌부터	DT
+내년하반기까지	DT
+내달	DT
+내달 p∼p일	DT
+내달 p일부터 내년 p월 p일까지	DT
+내달초	DT
+내일	DT
+내일부터	DT
+냉전시대	DT
+년	DT
+년대	DT
+늦가을	DT
+다음	DT
+다음날	DT
+다음다음 해	DT
+다음다음날	DT
+다음달	DT
+다음달p	DT
+다음달p일	DT
+다음달말까지	DT
+다음달부터	DT
+다음주	DT
+다음주u	DT
+다음주y요일	DT
+다음주일요일	DT
+다음해	DT
+달	DT
+당일	DT
+唐末	DT
+대보름	DT
+대보름날	DT
+동절기	DT
+두 달	DT
+두 달 동안	DT
+두 달치	DT
+두 시간	DT
+두 해	DT
+두달새	DT
+두달여동안	DT
+둘째	DT
+르네상스	DT
+르네상스 시대	DT
+르네상스기	DT
+마흔 아홉날	DT
+말	DT
+말기	DT
+매(每)천년마다	DT
+매년	DT
+매월	DT
+매월p,p주	DT
+매일	DT
+매주 토요일	DT
+매주u	DT
+매주y,y,월	DT
+매주y,y,일	DT
+매주y,y요일	DT
+매주y,월,y	DT
+매주y,일,y	DT
+매주y요일	DT
+매주월,y	DT
+매주월요일	DT
+매주일,y,y	DT
+매주일요일	DT
+매치	DT
+매해	DT
+며칠	DT
+며칠 전	DT
+며칠 후	DT
+몇 년 후	DT
+몇년간	DT
+몇주전	DT
+몇주전부터	DT
+모레	DT
+목요일	DT
+무장공비 침투사건 이후	DT
+문민 시대	DT
+문민정부 초기	DT
+반세기	DT
+발렌타인데이	DT
+발발(p세기) 이후	DT
+방중 이후	DT
+백여년 전	DT
+백제 시대	DT
+보름	DT
+보름 전	DT
+봄	DT
+봄철	DT
+북한 무장공비 남파사건 후	DT
+사 년전	DT
+사계절	DT
+사나흘	DT
+사춘기	DT
+사흘	DT
+사흘 간	DT
+사흘 뒤	DT
+사흘 전	DT
+사흘 후	DT
+사흘씩	DT
+삼 년 동안	DT
+삼년	DT
+삼사 일 뒤	DT
+상반기	DT
+새벽 p, p시까지	DT
+서기 p년 무렵	DT
+서기 p천	DT
+석달	DT
+선사	DT
+선사시대	DT
+설	DT
+송대	DT
+수년 전	DT
+수년간	DT
+수백년	DT
+수십 년 동안	DT
+수요	DT
+수일전	DT
+수천 년	DT
+스승의 날	DT
+신라시대	DT
+십 년	DT
+십 년 동안	DT
+십 년 전	DT
+십여 년 전	DT
+아침 동틀 무렵	DT
+약 p년 동안	DT
+약 p세기 동안	DT
+양일	DT
+어느 날	DT
+어버이날	DT
+어제	DT
+여	DT
+여름	DT
+여름날	DT
+여름철	DT
+연말	DT
+연이틀	DT
+열이틀	DT
+열흘	DT
+열흘간	DT
+예년	DT
+오는p~p일까지	DT
+오는p년	DT
+오는p년까지	DT
+오는p년부터	DT
+오는p월	DT
+오는p월부터	DT
+오는p일	DT
+오는p일부터	DT
+오는가을	DT
+오는겨울	DT
+오는구정연휴	DT
+오는봄	DT
+오는여름	DT
+오늘	DT
+오늘 새벽	DT
+오늘날	DT
+오늘부터	DT
+오ㄹ시즌	DT
+오후 p시부터 p시 p분까지	DT
+올	DT
+올 p월	DT
+올 p월 말	DT
+올 p월까지	DT
+올 여름	DT
+올p월	DT
+올가을	DT
+올겨울	DT
+올봄	DT
+올부터 p년까지	DT
+올상반기	DT
+올시즌	DT
+올여름	DT
+올초	DT
+올한해	DT
+올해	DT
+올해p분기	DT
+올해p월	DT
+올해p월말	DT
+올해p월초	DT
+올해말까지	DT
+올해상반기	DT
+올해하반기	DT
+우기	DT
+雨期	DT
+宇宙時代	DT
+월	DT
+월간	DT
+월요	DT
+월요일	DT
+이 년	DT
+이날	DT
+이년 전	DT
+이달	DT
+이달 p일	DT
+이달p일	DT
+이달말	DT
+이번 주	DT
+이번시즌	DT
+이번주일요일	DT
+이십 일 전	DT
+이튿날	DT
+이틀	DT
+이틀 동안	DT
+이틀째	DT
+이후	DT
+일	DT
+일 년	DT
+일 주일	DT
+일년	DT
+일요일	DT
+일일	DT
+일일점검	DT
+일제 때	DT
+일제시대	DT
+일주일	DT
+일주일간	DT
+입시철	DT
+입춘	DT
+자시	DT
+작년	DT
+작년 p월	DT
+작년 p월 p일	DT
+작년 여름	DT
+작년 이후	DT
+작년p분기	DT
+작년말	DT
+작년부터	DT
+작년설	DT
+작년초	DT
+작년추석	DT
+잠수함 침투사건 이후	DT
+재작년	DT
+재작년 가을	DT
+저녁 여덟 시	DT
+전	DT
+전날	DT
+전날밤	DT
+전년	DT
+전반기	DT
+전분기	DT
+정규	DT
+정규시즌	DT
+정미년 칠월 열나흘 날	DT
+정월대보름	DT
+조선 시대	DT
+조선시대	DT
+조선조	DT
+조선조 말	DT
+조선초	DT
+조선후기	DT
+종일	DT
+종일토록	DT
+주년	DT
+주말	DT
+주말마다	DT
+주중	DT
+중반	DT
+중세	DT
+중세기	DT
+중순	DT
+지나	DT
+지난 p,p년대	DT
+지난 p∼p월	DT
+지난 p년	DT
+지난 p년 p월	DT
+지난 p년 동안	DT
+지난 p년간	DT
+지난 p년대	DT
+지난 p년대말부터	DT
+지난 p년부터	DT
+지난 p년부터 p년도까지	DT
+지난 p여 년 동안	DT
+지난 p여년동안	DT
+지난 p월	DT
+지난 p월 p	DT
+지난 p월 p일	DT
+지난 p월부터	DT
+지난 p월초부터 p월말 사이	DT
+지난 p일	DT
+지난 가을	DT
+지난 날	DT
+지난 봄	DT
+지난 여름	DT
+지난 연말	DT
+지난 주말	DT
+지난 주부터	DT
+지난p.p	DT
+지난p년	DT
+지난p년p월	DT
+지난p년p월p일	DT
+지난p년p월말	DT
+지난p년동안	DT
+지난p년말	DT
+지난p년부터	DT
+지난p년이후	DT
+지난p년초	DT
+지난p분기	DT
+지난p월	DT
+지난p월p년(y)	DT
+지난p월p일	DT
+지난p월말부터	DT
+지난p월부터	DT
+지난p월이전	DT
+지난p월초부터	DT
+지난p일	DT
+지난p일y요일	DT
+지난p일까지	DT
+지난p일부터	DT
+지난p일이후	DT
+지난달	DT
+지난달 p일	DT
+지난달 p일부터	DT
+지난달 중순	DT
+지난달 초	DT
+지난달말	DT
+지난달말부터	DT
+지난달초	DT
+지난해	DT
+지난해 p월	DT
+지난해 p월 p일	DT
+지난해 p월 말	DT
+지난해 p월부터	DT
+지난해p분기	DT
+지난해p월	DT
+지난해p월말	DT
+지난해p월부터	DT
+지난해p월부터올p월까지	DT
+지난해p월부터올해p월까지	DT
+지난해p월초	DT
+지난해까지	DT
+지난해말	DT
+지난해부터	DT
+지난해연말까지	DT
+지난해초	DT
+천년	DT
+천년만년	DT
+천년쯤 전	DT
+천여년	DT
+첫날	DT
+첫날밤	DT
+첫째	DT
+첫째날	DT
+첫해	DT
+초	DT
+초가을	DT
+초겨울	DT
+초봄	DT
+최고 p년	DT
+최저 p년	DT
+추석	DT
+추석연휴	DT
+칠 팔 년 전	DT
+쿠데타 이후	DT
+크리스마스	DT
+太宗 때	DT
+토요	DT
+토요일	DT
+토요일밤	DT
+팔 년	DT
+팔 년 전	DT
+팔년 동안	DT
+폐경기	DT
+포스트시즌	DT
+프리	DT
+하계	DT
+하루	DT
+하루 종일	DT
+하루낮	DT
+하루종일	DT
+하룻밤	DT
+하룻밤새	DT
+하반기	DT
+한 달	DT
+한 달간	DT
+한 세대	DT
+한 여름	DT
+한 학기	DT
+한글날	DT
+한나절	DT
+한달	DT
+한달 동안	DT
+한달간	DT
+한두 달	DT
+한말	DT
+한시즌	DT
+한여름	DT
+한주	DT
+한해	DT
+해마다	DT
+해방 이후	DT
+해방정국기간	DT
+현대	DT
+현재	DT
+화요	DT
+화요일	DT
+화이트데이	DT
+환갑일	DT
+환절기	DT
+후기	DT
+후반기	DT
+휴일	DT
+p.1p	DT
+1p	DT
+p1p	DT
+p11	DT
+1p-11-p	DT
+p-p-1p	DT
+p-p-p1	DT
+p1p-p-p	DT
+p11-1p-p1	DT
+p1p-p1-1p	DT
+p1p-p-11	DT
+p1p-p-1p	DT
+p1p-11-p1	DT
+1~p년	DT
+1p 일	DT
+1p ㆍ p	DT
+1p/p~11/p	DT
+1p년	DT
+1p여일	DT
+1p년 동안	DT
+1p년 전부터	DT
+1p년간	DT
+1p여년 전	DT
+1p월 1p일 ~ 1p일	DT
+1p월 초 까지	DT
+1p일	DT
+1p흘간	DT
+11개월	DT
+11년	DT
+11년전	DT
+11월	DT
+11월1p-1p일	DT
+11일	DT
+1p 월 1p 일	DT
+1p일 전	DT
+1p일부터 사흘간	DT
+1p일까지	DT
+1p-1p일	DT
+1p일간	DT
+1p~p일	DT
+1p-p일	DT
+1p-1p년	DT
+1p-1p	DT
+1p~1p년	DT
+1p년부터	DT
+1p~p년대	DT
+1p년 p월p일	DT
+1p1년	DT
+1p년부터 올해	DT
+1p년 p월	DT
+1p년 p월1p일	DT
+1p년부터 p년까지	DT
+1p일부터	DT
+1개월	DT
+1년	DT
+1년 p개월	DT
+1년 뒤	DT
+1년 반	DT
+1년 전	DT
+1년 후	DT
+1년간	DT
+1년까지	DT
+1박	DT
+1박p일	DT
+1분기	DT
+1월	DT
+1월 p일	DT
+1월 말	DT
+1월1일	DT
+1일	DT
+1일째	DT
+1주일간	DT
+p~p년간	DT
+p년 p월 이후	DT
+p1년	DT
+p년부터 지난 시즌까지	DT
+p시즌까지	DT
+p년 1월부터 p년 p월까지	DT
+p 년 1p 월 p1 일	DT
+p년 1p월p일부터 11월p일까지	DT
+p년 p월경부터	DT
+p. 1p. p일자	DT
+p년 1p월 1p일(토)	DT
+p년 p월말	DT
+p년 말	DT
+p년1월1p일	DT
+p~p1p	DT
+p년 1p월 p일부터	DT
+p년 p월 말	DT
+p년 p/p-p일~p년 1p/p일	DT
+p년 시즌	DT
+p1p 정월대보름	DT
+p1p-p1p	DT
+p1p년 말	DT
+p1p년까지	DT
+p1p년도	DT
+p1p학년도	DT
+p11년 1분기	DT
+p11년 p분기	DT
+p1p년	DT
+p1p년 1p월 p1일까지	DT
+p1p년 1월	DT
+p여 년째	DT
+p1, p일	DT
+p1일	DT
+p년p개월간	DT
+p월 1일부터	DT
+p월 p일(수)	DT
+p월 p일(토요일)	DT
+p월 p일(목)	DT
+p주 이상	DT
+p주간	DT
+p해	DT
+p∼p일	DT
+p개월령	DT
+p년 후인	DT
+p월 p일 부터	DT
+p월 p1일	DT
+p월 초순	DT
+p일(목)	DT
+p주 전	DT
+p 월 p 일	DT
+p월 1p일까지	DT
+p월 p~p일	DT
+p월p일(수)	DT
+p월부터 1p월까지	DT
+p월부터 11월까지	DT
+p.1~p	DT
+p개월 동안	DT
+p월 1p일	DT
+p월p일~p월p일	DT
+p월달	DT
+p월말부터	DT
+p일전	DT
+p:p:p PM	DT
+p~1p일 이내	DT
+p월 p일부터 1p일까지	DT
+p ~1p년	DT
+p p일간	DT
+p월 1일부	DT
+p월 둘째주말	DT
+p월 첫째 주	DT
+p~1p	DT
+p년 대	DT
+p월 p일 일요일 p년	DT
+p월 둘째주	DT
+p월 첫째주	DT
+p월1일~p일	DT
+p일 전	DT
+p월 1일	DT
+p월 넷째주	DT
+p월1일	DT
+p월p~1p일	DT
+p월p일~p월11일까지	DT
+D-1p	DT
+같은달 p일	DT
+같은해 11월	DT
+겨울 동안	DT
+겨울방학	DT
+금년 상반기	DT
+금주	DT
+나흘	DT
+내년 p월까지	DT
+내년 상반기까지	DT
+내년 시즌	DT
+내달 1p일	DT
+내달 p일부터	DT
+내달 p일	DT
+넷째주 일요일	DT
+늦겨울까지	DT
+다음달 1p일	DT
+다음달 1p-p일	DT
+다음달 1일	DT
+다음달 1일까지	DT
+다음주 월요일	DT
+동계	DT
+둘째주 토요일	DT
+매시즌	DT
+매월 p,p주	DT
+매월 첫째 셋째주 목요일	DT
+매주	DT
+매주 목요	DT
+매주 목요일	DT
+매주 월 수 금	DT
+매주 월, 수	DT
+매주 월, 수, 금	DT
+매주 일, 수, 토	DT
+며칠간	DT
+무박	DT
+밸런타인데이	DT
+베어스데이	DT
+사흘간	DT
+새해	DT
+설 명절 연휴까지	DT
+설 연휴	DT
+설 연휴 동안	DT
+설날	DT
+셋째날	DT
+셋째주	DT
+수	DT
+수요일	DT
+아동 성폭력 추방의 날	DT
+여섯주	DT
+영유아기	DT
+오는 1p일	DT
+오는 1p일부터	DT
+오는 11월 p일	DT
+오는 1p월	DT
+오는 1p일부터 p월 1일까지	DT
+오는 p년 1p월까지	DT
+오는 p일	DT
+오는 p일부터	DT
+오는 p1일	DT
+오는 p일까지	DT
+오는 p일부터 p일까지	DT
+오는 p월 p일	DT
+오는 p1일부터	DT
+오는 p월	DT
+오는 p월 11일	DT
+오는 p월부터	DT
+오는 p~p일까지	DT
+오는 p월1p일~p1일	DT
+오는 p월말	DT
+오는 p월1일부	DT
+오는 가을	DT
+올 p월 p일	DT
+올 가을	DT
+올 겨울	DT
+올 봄	DT
+올 시즌	DT
+올 시즌부터	DT
+올해 1월	DT
+올해 p.p분기	DT
+올해 상반기	DT
+올해 설	DT
+올해부터	DT
+올해부터 p1p년까지	DT
+울산산업주간	DT
+음력설	DT
+이달 중순	DT
+이듬해	DT
+이번 p p	DT
+이번 설	DT
+이번 시즌	DT
+이번주	DT
+일요	DT
+작년 1p월 말	DT
+작년 p분기	DT
+작년 말	DT
+전 분기	DT
+전날까지	DT
+전년 동월	DT
+제 p주	DT
+조선왕조	DT
+지난 11월 p일	DT
+지난 1p일	DT
+지난 1p일부터	DT
+지난 1p1년	DT
+지난 1p년	DT
+지난 1p1년 p월 1p일	DT
+지난 1년 p개월간	DT
+지난 1년동안	DT
+지난 1분기	DT
+지난 1월	DT
+지난 1월 p일	DT
+지난 1월부터	DT
+지난 1월초부터	DT
+지난 1일	DT
+지난 1일부터	DT
+지난 p년 이후	DT
+지난 p1년부터	DT
+지난 p년 p월p일부터 p월p1일까지	DT
+지난 p년 11월 1p일	DT
+지난 p년 1p월말	DT
+지난 p일부터 p주	DT
+지난 p1일	DT
+지난 p일까지	DT
+지난 p월 이후	DT
+지난 p월1p일부터 p월p일까지	DT
+지난 p.p	DT
+지난 p-p월	DT
+지난 p월1p일	DT
+지난 p 월	DT
+지난 p일부터	DT
+지난 p일자	DT
+지난 겨울	DT
+지난 늦가을	DT
+지난 달 p일	DT
+지난 십 년간	DT
+지난 주	DT
+지난 해	DT
+지난달 1p일	DT
+지난달 p~p일	DT
+지난주	DT
+지난해 1p월	DT
+지난해 1p월말	DT
+지난해 11월	DT
+지난해 11월 11일	DT
+지난해 1p월 말	DT
+지난해 1p월p일	DT
+지난해 1월 초	DT
+지난해 1월부터 올 1월까지	DT
+지난해 p분기	DT
+지난해 p월p1일	DT
+지난해 p월부터 올해 p월까지	DT
+지난해 초	DT
+첫 해	DT
+프리시즌	DT
+한 시즌	DT
+한 해	DT

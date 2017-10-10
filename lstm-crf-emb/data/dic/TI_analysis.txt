@@ -1,0 +1,94 @@
+p.p초	TI
+p:p	TI
+p:p:p	TI
+p:p:p AM	TI
+p:p:p PM	TI
+p:p~p:p	TI
+p:p까지	TI
+p분	TI
+p분 p초	TI
+p분p초p	TI
+p분p초전	TI
+p분간	TI
+p분동안	TI
+p분뒤	TI
+p분여 전	TI
+p시	TI
+p시 p분까지	TI
+p시p분	TI
+p시간	TI
+p시간 p분	TI
+p시간 동안	TI
+p시간 전후	TI
+p시간p분	TI
+p시간동안	TI
+p시까지	TI
+p시부터	TI
+p초	TI
+p초 	TI
+p초p	TI
+p초전	TI
+낮	TI
+낮p시p분	TI
+낮부터 저녁시간대까지	TI
+낮부터저녁시간대까지	TI
+두시간	TI
+밤	TI
+밤 p시p분	TI
+새벽	TI
+새벽 p시	TI
+새벽 p시까지 p~p분	TI
+새벽 p시부터	TI
+새벽p시	TI
+새벽p시p분	TI
+새벽p시까지	TI
+새벽p시부터	TI
+새벽에서 아침까지	TI
+서너시간	TI
+아침	TI
+아침 p시	TI
+연장	TI
+연장전	TI
+오전	TI
+오전 p시 p분	TI
+오전 p시 p분부터	TI
+오전 p시p분	TI
+오전 p시부터	TI
+오전 p시부터 오후 p시	TI
+오전p시	TI
+오전p시p분	TI
+오전p시p분부터	TI
+오전p시부터	TI
+오전p시부터오후p시	TI
+오전p시부터자정까지	TI
+오후	TI
+오후 p∼p시	TI
+오후 p시	TI
+오후 p시 p분	TI
+오후 p시 p분 - p시까지	TI
+오후 p시p분	TI
+오후 p시부터	TI
+오후p시	TI
+오후p시p분	TI
+오후p시까지	TI
+오후p시부터	TI
+오후p시부터p시p분까지	TI
+오후p시부터p시까지	TI
+오후부터	TI
+자정	TI
+자정부터	TI
+저녁p시	TI
+전반	TI
+전반 p분	TI
+전반p분	TI
+전반전	TI
+전후반 p분	TI
+전후반p분	TI
+점심	TI
+중반부터	TI
+초저녁	TI
+하프타임	TI
+후반	TI
+후반 p분	TI
+후반p분	TI
+후반중반	TI
